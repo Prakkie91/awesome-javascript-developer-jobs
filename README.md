@@ -21,7 +21,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
-* **[Software Engineer - Forecasting & Scheduling](https://jobs.ashbyhq.com/assembledhq/e95be58c-ac92-4b2c-9812-cecdbdecee55)** — $150,000 – $300,000 USD _(posted 2025-03-12)_
+* **[Software Engineer - Forecasting & Scheduling](https://jobs.ashbyhq.com/assembledhq/e95be58c-ac92-4b2c-9812-cecdbdecee55)** — ¤150,000 – ¤300,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
@@ -30,6 +30,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
+* **[Senior Full Stack Engineer, Growth](https://job-boards.greenhouse.io/calendly/jobs/8028636002)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
@@ -42,7 +43,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
-* **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — $200,000 – $250,000 USD _(posted 2025-03-19)_
+* **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — ¤200,000 – ¤250,000 USD _(posted 2025-03-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
 
@@ -54,7 +55,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
-* **[Senior Software Engineer - Frontend/React (USA Only - 100% Remote) ](https://jobs.ashbyhq.com/close/9cee96e9-52ef-481f-87ab-40c69ccbac38)** — $130,000 – $210,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer - Frontend/React (USA Only - 100% Remote) ](https://jobs.ashbyhq.com/close/9cee96e9-52ef-481f-87ab-40c69ccbac38)** — ¤130,000 – ¤210,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
@@ -96,7 +97,8 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
 
 * **[Engineering Manager](https://boards.greenhouse.io/earnest/jobs/6805316)** — _n/a_ _(posted 2025-04-15)_
-* **[Staff Software Engineer, New Products](https://boards.greenhouse.io/earnest/jobs/6681455)** — $199,000 – $248,000 USD _(posted 2025-03-14)_
+* **[Senior Manager, Engineering](https://boards.greenhouse.io/earnest/jobs/6748569)** — _n/a_ _(posted 2025-03-27)_
+* **[Staff Software Engineer, New Products](https://boards.greenhouse.io/earnest/jobs/6681455)** — ¤199,000 – ¤248,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
@@ -106,15 +108,14 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
 * **[Junior Site Reliability Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000064404817-junior-site-reliability-engineer-remote-?oga=true)** — _n/a_ _(posted 2025-06-10)_
-* **[Staff Software Engineer - Java](https://jobs.smartrecruiters.com/Experian/744000063158791-staff-software-engineer-java?oga=true)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/fieldguide/74aaf560-51bd-429b-988f-183746ee870e)** — $170,000 – $195,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/fieldguide/74aaf560-51bd-429b-988f-183746ee870e)** — ¤170,000 – ¤195,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
-* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — $180,000 – $200,000 USD _(posted 2025-05-21)_
+* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
@@ -123,7 +124,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — $171,000 – $190,000 USD _(posted 2025-04-24)_
+* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
@@ -136,7 +137,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Staff Full Stack Engineer, Payments](https://jobs.lever.co/goodleap/d54353d8-3f47-4fa3-9906-48af23432340)** — _n/a_ _(posted 2025-05-13)_
-* **[Senior Frontend Engineer](https://jobs.lever.co/goodleap/68d88e84-b8f9-4104-8083-09a68430ec3d)** — $146,000 – $170,000 USD _(posted 2025-05-09)_
+* **[Senior Frontend Engineer](https://jobs.lever.co/goodleap/68d88e84-b8f9-4104-8083-09a68430ec3d)** — ¤146,000 – ¤170,000 USD _(posted 2025-05-09)_
 * **[Senior Full Stack Engineer, Payments](https://jobs.lever.co/goodleap/ba471944-f43d-4f5f-a153-02b854d732fd)** — _n/a_ _(posted 2025-04-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
@@ -150,7 +151,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
 * **[Software Engineer, Full Stack](https://job-boards.greenhouse.io/hs/jobs/6923339)** — _n/a_ _(posted 2025-05-29)_
-* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/hs/jobs/6564414)** — $122,400 – $195,500 USD _(posted 2025-05-17)_
+* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/hs/jobs/6564414)** — ¤122,400 – ¤195,500 USD _(posted 2025-05-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
 
@@ -159,21 +160,17 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
-* **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — $190,000 – $240,000 USD _(posted 2025-03-12)_
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — $160,000 – $175,000 USD _(posted 2025-03-12)_
+* **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artohvfq2jh2orgkmv6d.webp" width="24" height="24" alt="Jasper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jasper](https://jobo.world/company/Jasper)
 
-* **[Senior Software Engineer](https://jobs.ashbyhq.com%2Fjasper%2520ai%2F98716933-4f92-4958-ba17-97e194b1541e)** — $140,000 – $180,000 USD _(posted 2025-05-15)_
+* **[Senior Software Engineer](https://jobs.ashbyhq.com%2Fjasper%2520ai%2F98716933-4f92-4958-ba17-97e194b1541e)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
 * **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Senior Full Stack Engineer](https://jobs.ashbyhq.com/jerry/84e6ae87-319e-4233-a918-a5afe8f807d4)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -182,13 +179,13 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
-* **[Senior Software Engineer - React Native - Payments](https://jobs.ashbyhq.com/kraken.com/bb88a423-baf3-445e-b183-0c87640ba59c)** — $127,000 – $203,000 USD _(posted 2025-05-30)_
-* **[Senior Software Engineer - Frontend - Payments](https://jobs.ashbyhq.com/kraken.com/48d8008a-165a-4280-bb39-553cef3c33b2)** — $135,000 – $203,000 USD _(posted 2025-05-06)_
-* **[Senior Software Engineer - Frontend - Growth Insights](https://jobs.ashbyhq.com/kraken.com/8fb11ece-0b31-4ebd-8837-f010abbe6dd9)** — $127,000 – $203,000 USD _(posted 2025-04-17)_
+* **[Senior Software Engineer - React Native - Payments](https://jobs.ashbyhq.com/kraken.com/bb88a423-baf3-445e-b183-0c87640ba59c)** — ¤127,000 – ¤203,000 USD _(posted 2025-05-30)_
+* **[Senior Software Engineer - Frontend - Payments](https://jobs.ashbyhq.com/kraken.com/48d8008a-165a-4280-bb39-553cef3c33b2)** — ¤135,000 – ¤203,000 USD _(posted 2025-05-06)_
+* **[Senior Software Engineer - Frontend - Growth Insights](https://jobs.ashbyhq.com/kraken.com/8fb11ece-0b31-4ebd-8837-f010abbe6dd9)** — ¤127,000 – ¤203,000 USD _(posted 2025-04-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
-* **[Senior Frontend Developer (Angular, AWS)](https://job-boards.greenhouse.io/kunai/jobs/4754220007)** — $145,000 – $175,000 USD _(posted 2025-06-10)_
+* **[Senior Frontend Developer (Angular, AWS)](https://job-boards.greenhouse.io/kunai/jobs/4754220007)** — ¤145,000 – ¤175,000 USD _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
@@ -217,7 +214,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
-* **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — $150,000 – $225,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
 
@@ -225,7 +222,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
-* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — $200,000 – $385,000 USD _(posted 2025-03-12)_
+* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
@@ -237,9 +234,9 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
-* **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — $170,000 – $250,000 USD _(posted 2025-03-12)_
-* **[Senior/Staff Fullstack Software Engineer](https://jobs.ashbyhq.com/privy/8aeff2e1-1fdf-4123-ae81-3867507c239e)** — $150,000 – $250,000 USD _(posted 2025-03-12)_
-* **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — $150,000 – $250,000 USD _(posted 2025-03-12)_
+* **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
+* **[Senior/Staff Fullstack Software Engineer](https://jobs.ashbyhq.com/privy/8aeff2e1-1fdf-4123-ae81-3867507c239e)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
+* **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
@@ -247,12 +244,12 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
-* **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — $125,000 – $150,000 USD _(posted 2025-04-30)_
-* **[Senior Software Engineer, Audio](https://jobs.ashbyhq.com/radai/a14a16ef-6a3d-40c1-aace-46776af1b2d3)** — $145,000 – $190,000 USD _(posted 2025-04-24)_
+* **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
+* **[Senior Software Engineer, Audio](https://jobs.ashbyhq.com/radai/a14a16ef-6a3d-40c1-aace-46776af1b2d3)** — ¤145,000 – ¤190,000 USD _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
 
-* **[Web Engineer | Growth Marketing](https://jobs.ashbyhq.com/ramp/dbec16c5-4fa8-4e3e-84b2-e57ae8b4918a)** — $131,800 – $181,200 USD _(posted 2025-03-12)_
+* **[Web Engineer | Growth Marketing](https://jobs.ashbyhq.com/ramp/dbec16c5-4fa8-4e3e-84b2-e57ae8b4918a)** — ¤131,800 – ¤181,200 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
 
@@ -261,7 +258,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
-* **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — $60,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 * **[Principal Angular Developer](https://job-boards.greenhouse.io/regscale/jobs/4726043007)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tj4mug1agf28wwi1479z.webp" width="24" height="24" alt="Rockbot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rockbot](https://jobo.world/company/Rockbot)
@@ -296,12 +293,12 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wrtdcmsm9s8uw56wksn3.webp" width="24" height="24" alt="Superblocks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Superblocks](https://jobo.world/company/Superblocks)
 
-* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — $170,000 – $210,000 USD _(posted 2025-03-14)_
+* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l2atgbjd7w67rocymbfk.webp" width="24" height="24" alt="Tapcart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tapcart](https://jobo.world/company/Tapcart)
 
-* **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — $175,000 – $185,000 USD _(posted 2025-05-30)_
-* **[Senior Software Engineer, React Native](https://jobs.ashbyhq.com/tapcart/ac6b2e89-5e53-43c8-8e39-8c09afa00c01)** — $175,000 – $185,000 USD _(posted 2025-05-29)_
+* **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-30)_
+* **[Senior Software Engineer, React Native](https://jobs.ashbyhq.com/tapcart/ac6b2e89-5e53-43c8-8e39-8c09afa00c01)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfkrdgixrm2elf7w9po8.webp" width="24" height="24" alt="thatgamecompany logo" style="vertical-align:middle"/>&nbsp;&nbsp;[thatgamecompany](https://jobo.world/company/Thatgamecompany)
 
@@ -321,15 +318,15 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
-* **[Full Stack Engineer (NYC, Austin or Remote US)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1d862ead-741b-4ce2-83f4-d914393b9ad3)** — $120,000 – $190,000 USD _(posted 2025-03-12)_
+* **[Full Stack Engineer (NYC, Austin or Remote US)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1d862ead-741b-4ce2-83f4-d914393b9ad3)** — ¤120,000 – ¤190,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vjvpsj9g0dgi0bdeodhd.webp" width="24" height="24" alt="Vannevar Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vannevar Labs](https://jobo.world/company/VannevarLabs)
 
-* **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — $135,000 – $205,000 USD _(posted 2025-03-14)_
+* **[Senior Full Stack Engineer](https://boards.greenhouse.io/vannevarlabs/jobs/4538771007)** — ¤135,000 – ¤205,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
