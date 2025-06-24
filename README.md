@@ -335,4 +335,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
 ---
-_Updated automatically — 2025-06-23_
+_Updated automatically — 2025-06-24_
