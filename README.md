@@ -37,6 +37,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Senior Full Stack Engineer, Growth](https://job-boards.greenhouse.io/calendly/jobs/8028636002)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
+
+* **[Sr. Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Software-Engineer_JR7989-1)** — _n/a_ _(posted 2025-06-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrerphrfzimfknvp5loj.webp" width="24" height="24" alt="Certik logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Certik](https://jobo.world/company/Certik)
 
 * **[Senior Full-Stack Engineer](https://jobs.lever.co/certik/b85b78b6-a186-497b-a3d0-13c1b696a522)** — _n/a_ _(posted 2025-02-10)_
@@ -51,6 +55,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
+* **[Senior Full Stack Engineer - HyperDX](https://job-boards.greenhouse.io/clickhouse/jobs/5534566004)** — _n/a_ _(posted 2025-05-13)_
 * **[Senior Front End Engineer - HyperDX](https://job-boards.greenhouse.io/clickhouse/jobs/5482336004)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
@@ -82,10 +87,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
 * **[Software Engineer II (Front-End)](https://job-boards.greenhouse.io/demandbase/jobs/6901652)** — _n/a_ _(posted 2025-05-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k92vxngybvwdc18je6xi.webp" width="24" height="24" alt="Dev Technology Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dev Technology Group](https://jobo.world/company/DevTechGrp)
-
-* **[Full Stack Developer (Java/GoLang)](https://job-boards.greenhouse.io/devtechnology/jobs/7983506002)** — _n/a_ _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
@@ -156,11 +157,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Front- End Engineer ](https://jobs.ashbyhq.com/hatch/fc853db4-b63c-46f3-9fce-1e196c48dbea)** — _n/a_ _(posted 2025-04-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
-
-* **[Senior Frontend Engineer - US Remote](https://apply.workable.com/huggingface/j/09B44FE57C/)** — _n/a_ _(posted 2025-05-14)_
-* **[Machine Learning Engineer, WebML - US Remote](https://apply.workable.com/huggingface/j/6DBAC48BB7/)** — _n/a_ _(posted 2025-05-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
 * **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
@@ -179,6 +175,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Software Engineer, KeeperChat (MAUI)](https://apply.workable.com/keepersecurity/j/4A16A293D7/)** — _n/a_ _(posted 2025-04-10)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qobmp3s3sfxtirbgfvbn.webp" width="24" height="24" alt="Kiddom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kiddom](https://jobo.world/company/Kiddom)
+
+* **[Senior Full Stack Engineer](https://jobs.lever.co/kiddom/467c9490-bbd9-40ba-a2ce-7ea970149fc7)** — _n/a_ _(posted 2025-06-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
 * **[Senior Software Engineer - React Native](https://jobs.ashbyhq.com/kraken.com/61e58e48-c10a-4e22-8108-762b1b114402)** — ¤127,000 – ¤203,000 USD _(posted 2025-06-25)_
@@ -190,6 +190,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
+* **[Full Stack Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/6626314003)** — _n/a_ _(posted 2025-07-01)_
 * **[Fullstack Engineer, Mobile Observability](https://job-boards.greenhouse.io/launchdarkly/jobs/6607515003)** — _n/a_ _(posted 2025-06-13)_
 * **[Frontend Engineer, Release Monitoring](https://job-boards.greenhouse.io/launchdarkly/jobs/6601728003)** — _n/a_ _(posted 2025-06-06)_
 
@@ -214,10 +215,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
 * **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
-
-* **[Sr. Front End Developer](https://job-boards.greenhouse.io/nutrafol/jobs/4565152005)** — _n/a_ _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
 
@@ -332,4 +329,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
