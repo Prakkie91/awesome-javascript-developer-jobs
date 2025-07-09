@@ -23,6 +23,11 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Software Engineer - Forecasting & Scheduling](https://jobs.ashbyhq.com/assembledhq/e95be58c-ac92-4b2c-9812-cecdbdecee55)** — ¤150,000 – ¤300,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
+
+* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
+* **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000069148315-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-07)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
 
 * **[Software Engineer II - Hybrid](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Software-Engineer-II---Hybrid_JR102122)** — _n/a_ _(posted 2025-06-20)_
@@ -77,7 +82,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
 
 * **[Software Engineer, Full Stack](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer--Full-Stack_JR1810)** — _n/a_ _(posted 2025-06-12)_
-* **[Software Engineer III, Full Stack (Human AI Innovation Team)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer-III--Full-Stack--Human-AI-Innovation-Team-_JR1700)** — _n/a_ _(posted 2025-02-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
@@ -164,12 +168,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
-* **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/f1e9dc65-6977-42ec-a5aa-03f877c6824e)** — _n/a_ _(posted 2025-07-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -190,6 +189,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
+* **[Lead Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/6627854003)** — _n/a_ _(posted 2025-07-08)_
 * **[Full Stack Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/6626314003)** — _n/a_ _(posted 2025-07-01)_
 * **[Fullstack Engineer, Mobile Observability](https://job-boards.greenhouse.io/launchdarkly/jobs/6607515003)** — _n/a_ _(posted 2025-06-13)_
 * **[Frontend Engineer, Release Monitoring](https://job-boards.greenhouse.io/launchdarkly/jobs/6601728003)** — _n/a_ _(posted 2025-06-06)_
@@ -214,6 +214,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
 
+* **[Software Engineer (Ruby on Rails) - Remote](https://jobs.smartrecruiters.com/PayNearMe/744000069180245-software-engineer-ruby-on-rails-remote?oga=true)** — _n/a_ _(posted 2025-07-07)_
 * **[Site Reliability Engineer - Remote ](https://jobs.smartrecruiters.com/PayNearMe/744000062969188-site-reliability-engineer-remote-?oga=true)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
@@ -229,10 +230,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
 * **[Senior/Staff Fullstack Software Engineer](https://jobs.ashbyhq.com/privy/8aeff2e1-1fdf-4123-ae81-3867507c239e)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
 * **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtoeydmpb32xyvwvin0r.webp" width="24" height="24" alt="QuickNode logo" style="vertical-align:middle"/>&nbsp;&nbsp;[QuickNode](https://jobo.world/company/QuickNode)
-
-* **[General Application](https://jobs.ashbyhq.com/quicknode/f17f80cb-af9f-49c3-a08d-50b153296656)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
@@ -326,4 +323,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
 ---
-_Updated automatically — 2025-07-08_
+_Updated automatically — 2025-07-09_
