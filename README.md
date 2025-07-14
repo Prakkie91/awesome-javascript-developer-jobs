@@ -37,6 +37,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/biorender/6c128198-f890-4aac-a266-164a7221ac34)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior AI Engineer](https://jobs.ashbyhq.com/biorender/001c591c-90cd-4441-aef1-c0818d6159d9)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
+
+* **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0224)** — _n/a_ _(posted 2025-06-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Full Stack Engineer, Growth](https://job-boards.greenhouse.io/calendly/jobs/8028636002)** — _n/a_ _(posted 2025-06-11)_
@@ -162,10 +166,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/9bc019ed-e265-47be-9e6d-2d0c64c76cc5)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qobmp3s3sfxtirbgfvbn.webp" width="24" height="24" alt="Kiddom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kiddom](https://jobo.world/company/Kiddom)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Accounts](https://job-boards.greenhouse.io/vercel/jobs/5438229004)** — _n/a_ _(posted 2025-04-15)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
