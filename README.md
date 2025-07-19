@@ -6,10 +6,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ---
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
-
-* **[Senior Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Full-Stack-Developer_31117010-1)** — _n/a_ _(posted 2025-04-25)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlsjhcph5ejvjcra2ayk.webp" width="24" height="24" alt="AffiniPay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AffiniPay](https://jobo.world/company/AffiniPay)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/affinipay1/jobs/4566326006)** — _n/a_ _(posted 2025-05-09)_
@@ -46,6 +42,11 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Frontend Engineer](https://jobs.ashbyhq.com/bastion/fe460b7c-5080-4667-9164-5be2078ca33d)** — ¤200,000 – ¤260,000 USD _(posted 2025-07-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
+
+* **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000071342255-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-17)_
+* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/anthlwqnh3ckdkwq7uvi.webp" width="24" height="24" alt="BigCommerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BigCommerce](https://jobo.world/company/BigCommerce)
 
 * **[Software Engineer II - Hybrid](https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce/job/United-States---Remote/Software-Engineer-II---Hybrid_JR102122)** — _n/a_ _(posted 2025-06-20)_
@@ -62,10 +63,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Lead Sr. Software Engineer - Front End](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Lead-Sr-Software-Engineer---Front-End_JR10541)** — _n/a_ _(posted 2025-06-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Developer Relations Engineer](https://jobs.ashbyhq.com/clerk/5e899b61-1dcc-4c8e-83af-5e67d8ec1387)** — _n/a_ _(posted 2025-05-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
 * **[Senior Front End Engineer - HyperDX](https://job-boards.greenhouse.io/clickhouse/jobs/5482336004)** — _n/a_ _(posted 2025-03-30)_
@@ -80,6 +77,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Senior Software Engineer, Frontend - Consumer Products](https://boards.greenhouse.io/cbreferral/jobs/5963295)** — ¤186,005 – ¤218,900 USD _(posted 2025-03-14)_
 * **[Senior Software Engineer, Frontend (Institutional - Products)](https://boards.greenhouse.io/cbreferral/jobs/6659086)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
+
+* **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Front End Engineer - Filters (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Front-End-Engineer---Filters--Remote-_R23756)** — _n/a_ _(posted 2025-07-15)_
@@ -91,10 +92,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
 * **[Software Engineer II (Front-End)](https://job-boards.greenhouse.io/demandbase/jobs/6901652)** — _n/a_ _(posted 2025-05-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
-
-* **[Senior Software Engineer - UI (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Senior-Software-Engineer---UI--REMOTE-_202510027)** — _n/a_ _(posted 2025-07-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
@@ -108,11 +105,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/a4sle3t06tagovmvqcnu.webp" width="24" height="24" alt="DoubleVerify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DoubleVerify](https://jobo.world/company/DoubleVerify)
 
 * **[Senior Software Engineer II - Rockerbox](https://job-boards.greenhouse.io/doubleverify/jobs/8060826002)** — _n/a_ _(posted 2025-07-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
-
-* **[Lead Software Engineer, AI](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Lead-Software-Engineer--AI-Engineering--Developer-Tools-_JR11972-1)** — _n/a_ _(posted 2025-07-14)_
-* **[Senior Lead Software Engineer, AI](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Lead-Software-Engineer--AI_JR11969-1)** — _n/a_ _(posted 2025-07-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
@@ -289,6 +281,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
+* **[Senior Software Engineer, Audio](https://jobs.ashbyhq.com/radai/a14a16ef-6a3d-40c1-aace-46776af1b2d3)** — ¤145,000 – ¤190,000 USD _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
@@ -327,6 +320,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Team Lead UI Engineer](https://apply.workable.com/tetrascience/j/FAA902E9EC/)** — _n/a_ _(posted 2025-06-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfkrdgixrm2elf7w9po8.webp" width="24" height="24" alt="thatgamecompany logo" style="vertical-align:middle"/>&nbsp;&nbsp;[thatgamecompany](https://jobo.world/company/Thatgamecompany)
+
+* **[Full Stack Engineer](https://jobs.ashbyhq.com/thatgamecompany/85301a13-4771-4151-ae20-92e3987faa0f)** — _n/a_ _(posted 2025-05-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/otzb8va0q1hhz3i6wfoo.webp" width="24" height="24" alt="Tremendous logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tremendous](https://jobo.world/company/Tremendous)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/tremendous/bbcd8882-3fff-40c3-a376-63cc99b737ef)** — ¤150,000 – ¤250,000 USD _(posted 2025-05-05)_
@@ -356,4 +353,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
