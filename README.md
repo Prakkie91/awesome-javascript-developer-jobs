@@ -165,10 +165,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/f53d2639-f7ad-4aa5-b17a-08f4e5a00882)** — _n/a_ _(posted 2025-07-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
 * **[App Engineer](https://job-boards.greenhouse.io/kalshi/jobs/6034981003)** — ¤100,000 – ¤200,000 USD _(posted 2025-04-15)_
@@ -236,6 +232,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Software Engineer II](https://job-boards.greenhouse.io/omadahealth/jobs/6913167)** — _n/a_ _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
+
+* **[Front End Software Engineer, Marketing](https://jobs.ashbyhq.com/openai/9474c7ba-cdaf-4d32-8484-b850d0e42d65)** — ¤255,000 – ¤405,000 USD _(posted 2025-07-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
 * **[Software Engineer (Consumer)](https://job-boards.greenhouse.io/opendoor/jobs/4572025006)** — _n/a_ _(posted 2025-07-12)_
@@ -280,6 +280,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/radai/9f9175f0-8f42-484e-bbad-fec74926d151)** — ¤145,000 – ¤190,000 USD _(posted 2025-07-19)_
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Senior Software Engineer, Audio](https://jobs.ashbyhq.com/radai/a14a16ef-6a3d-40c1-aace-46776af1b2d3)** — ¤145,000 – ¤190,000 USD _(posted 2025-04-24)_
 
@@ -320,10 +321,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Team Lead UI Engineer](https://apply.workable.com/tetrascience/j/FAA902E9EC/)** — _n/a_ _(posted 2025-06-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfkrdgixrm2elf7w9po8.webp" width="24" height="24" alt="thatgamecompany logo" style="vertical-align:middle"/>&nbsp;&nbsp;[thatgamecompany](https://jobo.world/company/Thatgamecompany)
-
-* **[Full Stack Engineer](https://jobs.ashbyhq.com/thatgamecompany/85301a13-4771-4151-ae20-92e3987faa0f)** — _n/a_ _(posted 2025-05-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/otzb8va0q1hhz3i6wfoo.webp" width="24" height="24" alt="Tremendous logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tremendous](https://jobo.world/company/Tremendous)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/tremendous/bbcd8882-3fff-40c3-a376-63cc99b737ef)** — ¤150,000 – ¤250,000 USD _(posted 2025-05-05)_
@@ -353,4 +350,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
