@@ -8,18 +8,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ooxpzdfo1qadnwzpxalm.webp" width="24" height="24" alt="Abbott logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Abbott](https://jobo.world/company/Abbott)
 
-* **[Senior Software Engineer, Mobile Applications](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Software-Engineer--Mobile-Applications_31118356-1)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-14)_
-* **[Senior Software Engineer, Mobile Applications](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Software-Engineer--Mobile-Applications_31118356)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-14)_
 * **[Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Fullstack-Developer_31111681-2)** — _n/a_ _(posted 2025-05-02)_
-* **[Senior Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Senior-Full-Stack-Developer_31117010)** — _n/a_ _(posted 2025-04-25)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlsjhcph5ejvjcra2ayk.webp" width="24" height="24" alt="AffiniPay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AffiniPay](https://jobo.world/company/AffiniPay)
-
-* **[Senior Software Engineer](https://job-boards.greenhouse.io/affinipay1/jobs/4566326006)** — _n/a_ _(posted 2025-05-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
-
-* **[Senior Staff Software Engineer, Fullstack (Consumer App Experience)](https://job-boards.greenhouse.io/affirm/jobs/6336790003)** — _n/a_ _(posted 2025-03-30)_
+* **[Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States-of-America--Remote/Fullstack-Developer_31111681-1)** — _n/a_ _(posted 2025-05-02)_
+* **[Senior Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Full-Stack-Developer_31117010-1)** — _n/a_ _(posted 2025-04-25)_
+* **[Full Stack Developer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/Fullstack-Developer_31095266-1)** — _n/a_ _(posted 2025-04-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwkvxknyowmlvra8rdi8.webp" width="24" height="24" alt="Agile Six Applications logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Agile Six Applications](https://jobo.world/company/Agile-Six-Applications)
 
@@ -51,6 +43,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
 
+* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000072053526-software-engineer)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000071342255-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-17)_
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
 
@@ -60,6 +53,7 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
 
+* **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0245-1)** — _n/a_ _(posted 2025-07-24)_
 * **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0224)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
@@ -79,6 +73,19 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Frontend (Consumer Products)](https://boards.greenhouse.io/cbreferral/jobs/5963221)** — _n/a_ _(posted 2025-03-14)_
 * **[Senior Software Engineer, Frontend - Consumer Products](https://boards.greenhouse.io/cbreferral/jobs/5963295)** — ¤186,005 – ¤218,900 USD _(posted 2025-03-14)_
 * **[Senior Software Engineer, Frontend (Institutional - Products)](https://boards.greenhouse.io/cbreferral/jobs/6659086)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
+
+* **[Staff Software Engineer, Platform UI](https://job-boards.greenhouse.io/cribl/jobs/5543441004)** — _n/a_ _(posted 2025-07-23)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
+
+* **[Engineer III - Front End (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Front-End--Remote-_R24022)** — _n/a_ _(posted 2025-07-22)_
+* **[Sr. Engineer - Front End (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Front-End--Remote-_R24016)** — _n/a_ _(posted 2025-07-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
+
+* **[Senior Software Engineer I, Enterprise](https://jobs.ashbyhq.com/dandy/5f8d9863-fbea-49d5-9cb2-36e61c8c1336)** — ¤176,800 – ¤208,000 USD _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rahgnygk76v2f6qsmbiq.webp" width="24" height="24" alt="Dapper Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dapper Labs](https://jobo.world/company/DapperLabs)
 
@@ -101,15 +108,22 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Software Engineer II - Rockerbox](https://job-boards.greenhouse.io/doubleverify/jobs/8060826002)** — _n/a_ _(posted 2025-07-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtyne9b2pdyqncaygzud.webp" width="24" height="24" alt="Earnest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Earnest](https://jobo.world/company/Earnest)
+
+* **[Front End Software Engineer](https://jobs.ashbyhq.com/ernest/d375d861-c4a6-408a-ab7b-f6ec81ecc40d)** — _n/a_ _(posted 2025-07-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
 * **[Website Engineer ](https://jobs.ashbyhq.com/elevenlabs/20476dac-9e9d-4a34-9b84-8cf97b7cc35e)** — _n/a_ _(posted 2025-03-12)_
-* **[Full-Stack Engineer (Back-End Leaning - Core)](https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192)** — _n/a_ _(posted 2025-03-12)_
 * **[Full-Stack Engineer (Front-End Leaning)](https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bbxuubh94fioiil7vbun.webp" width="24" height="24" alt="Embrace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Embrace](https://jobo.world/company/Embrace)
 
 * **[UI &amp; SDK Web Engineer](https://job-boards.greenhouse.io/embrace/jobs/5564021004)** — _n/a_ _(posted 2025-06-13)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
+
+* **[Staff Design Engineer/Technical Lead, Design Systems](https://job-boards.greenhouse.io/eventbriteinc/jobs/4536362007)** — _n/a_ _(posted 2025-07-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
@@ -119,10 +133,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
-
-* **[Software Engineer, Marketplace](https://job-boards.greenhouse.io/fleetio/jobs/4784351007)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
 * **[Senior Software Engineer, Mobile &amp; Web](https://job-boards.greenhouse.io/flex/jobs/4585778005)** — _n/a_ _(posted 2025-07-12)_
@@ -131,10 +141,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
-
-* **[Senior Software Engineer - Flutter &amp; Node](https://jobs.lever.co/goodleap/bbcc8fc3-356d-4256-8ca1-6fd7aa3b0e1c)** — _n/a_ _(posted 2025-07-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -169,7 +175,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Software Engineer - React Native](https://jobs.ashbyhq.com/kraken.com/61e58e48-c10a-4e22-8108-762b1b114402)** — ¤127,000 – ¤203,000 USD _(posted 2025-06-25)_
 * **[Senior Software Engineer - React Native - Consumer](https://jobs.ashbyhq.com/kraken.com/0d925f6e-4837-4f85-bf6a-b13676a38f2c)** — ¤135,000 – ¤203,000 USD _(posted 2025-06-13)_
-* **[Senior Software Engineer - React Native - Payments](https://jobs.ashbyhq.com/kraken.com/bb88a423-baf3-445e-b183-0c87640ba59c)** — ¤127,000 – ¤203,000 USD _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
@@ -192,10 +197,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
-
-* **[Software Engineer, Fullstack](https://job-boards.greenhouse.io/mixpanel/jobs/3920890)** — _n/a_ _(posted 2025-07-08)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vuz34tir7i8nhrgxio7i.webp" width="24" height="24" alt="Modern Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modern Health](https://jobo.world/company/Modern-Health)
 
 * **[Staff Software Engineer (Full-Stack with Front-End Focus)](https://job-boards.greenhouse.io/modernhealth/jobs/7277020002)** — _n/a_ _(posted 2025-05-08)_
@@ -204,10 +205,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Mobile Developer](https://job-boards.greenhouse.io/themotleyfool/jobs/4736602007)** — _n/a_ _(posted 2025-07-02)_
 * **[Senior Fullstack Developer - React/Python](https://job-boards.greenhouse.io/themotleyfool/jobs/4724679007)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
-
-* **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
@@ -233,14 +230,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Full Stack Software Engineer](https://apply.workable.com/performyard/j/8147038392/)** — _n/a_ _(posted 2024-12-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfy1zh0kfr3dcucjo6ra.webp" width="24" height="24" alt="Polychain Capital logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Polychain Capital](https://jobo.world/company/Polychain-Capital)
-
-* **[Full Stack Engineer, Reporting Systems - Contract 6mo](https://job-boards.greenhouse.io/polychaincapital/jobs/6888228)** — _n/a_ _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/orgyypffafltnovk03jw.webp" width="24" height="24" alt="PostHog logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PostHog](https://jobo.world/company/PostHog)
-
-* **[Product Engineer](https://jobs.ashbyhq.com/posthog/1ed75800-ae61-4457-a85c-9eeca0a470c4)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
 * **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
@@ -255,7 +244,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Software Engineer - Developer Productivity, Poe (Remote)](https://jobs.ashbyhq.com/quora/0b36c43d-a27b-4434-97d4-0e9c25c5879d)** — _n/a_ _(posted 2025-06-19)_
 * **[Senior Software Engineer - Developer Tools, Poe (Remote)](https://jobs.ashbyhq.com/quora/16c24472-7381-4f24-9faa-975f40f7a326)** — _n/a_ _(posted 2025-06-06)_
-* **[Senior Full Stack Software Engineer - Creators, Poe (Remote)](https://jobs.ashbyhq.com/quora/a63cdb4a-0fca-4e78-a503-19442c3aba77)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ew9o9kdejcoi12rstque.webp" width="24" height="24" alt="Rackner logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rackner](https://jobo.world/company/Rackner)
+
+* **[Software Engineer, Sr. (Remote | 24x7x365 Ops | DoD)](https://job-boards.greenhouse.io/rackner/jobs/4463903005)** — _n/a_ _(posted 2025-07-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -272,9 +264,14 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Senior Staff Software Engineer - Fullstack ](https://jobs.smartrecruiters.com/ServiceNow/744000072071400-senior-staff-software-engineer-fullstack-)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000071927135-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-22)_
 * **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000071884035-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-21)_
 * **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000071883155-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
+
+* **[Full Stack Web Engineer](https://boards.greenhouse.io/shift5/jobs/5374496004)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
 
@@ -326,4 +323,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-25_
+_Updated automatically — 2025-07-26_
