@@ -100,10 +100,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer - UI and Interactions (Full-Stack)](https://job-boards.greenhouse.io/discord/jobs/8058456002)** — _n/a_ _(posted 2025-07-02)_
 * **[Staff Software Engineer – UI/UX &amp; Animations](https://job-boards.greenhouse.io/discord/jobs/7854326002)** — _n/a_ _(posted 2025-04-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hgirylfmfxfcdsc1odvb.webp" width="24" height="24" alt="doola logo" style="vertical-align:middle"/>&nbsp;&nbsp;[doola](https://jobo.world/company/doola)
-
-* **[Front-end Engineer](https://jobs.lever.co/doola/5824dae7-f716-4b7f-91bb-a1ba7f1ced43)** — _n/a_ _(posted 2025-06-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/a4sle3t06tagovmvqcnu.webp" width="24" height="24" alt="DoubleVerify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DoubleVerify](https://jobo.world/company/DoubleVerify)
 
 * **[Senior Software Engineer II - Rockerbox](https://job-boards.greenhouse.io/doubleverify/jobs/8060826002)** — _n/a_ _(posted 2025-07-09)_
@@ -124,6 +120,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
 
 * **[Staff Design Engineer/Technical Lead, Design Systems](https://job-boards.greenhouse.io/eventbriteinc/jobs/4536362007)** — _n/a_ _(posted 2025-07-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
+
+* **[Senior Software Engineer, Front End B2B CRM](https://jobs.smartrecruiters.com/Experian/744000072747915-senior-software-engineer-front-end-b2b-crm)** — _n/a_ _(posted 2025-07-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
@@ -258,10 +258,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Senior Software Engineer (Full Stack)](https://job-boards.greenhouse.io/redcellpartners/jobs/4773651007)** — _n/a_ _(posted 2025-06-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
-
-* **[Staff Engineer Software Eng](https://republic.wd5.myworkdayjobs.com/republic/job/Remote---USA/Staff-Engineer-Software-Eng_R-152864)** — _n/a_ _(posted 2025-05-19)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
 * **[Senior Staff Software Engineer - Fullstack ](https://jobs.smartrecruiters.com/ServiceNow/744000072071400-senior-staff-software-engineer-fullstack-)** — _n/a_ _(posted 2025-07-22)_
@@ -306,6 +302,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Full Stack Engineer (NYC, Austin or Remote US)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1d862ead-741b-4ce2-83f4-d914393b9ad3)** — ¤120,000 – ¤190,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqvitsgh4wt42fbbnaqo.webp" width="24" height="24" alt="Twin Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twin Health](https://jobo.world/company/Twin-Health)
+
+* **[UI Engineer - AI Applications](https://job-boards.greenhouse.io/twinhealth/jobs/5382056004)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/i0lugmi9cix2n7oslta7.webp" width="24" height="24" alt="Upkeep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upkeep](https://jobo.world/company/Upkeep)
 
 * **[Staff Software Engineer - Frontend](https://job-boards.greenhouse.io/upkeep/jobs/4740536008)** — _n/a_ _(posted 2025-06-14)_
@@ -323,4 +323,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
