@@ -33,10 +33,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[UX Engineer](https://jobs.ashbyhq.com/assembledhq/b1e813b8-cead-458a-9a55-090ad371b372)** — ¤145,000 – ¤245,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
-
-* **[Senior Software Engineer, XC Frameworks (Remote)](https://jobs.ashbyhq.com/auditboard/26da7163-bf08-4c9c-889b-820f0789ae4b)** — ¤128,000 – ¤192,000 USD _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fwm8dxmzloxo62iyyecy.webp" width="24" height="24" alt="Bastion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bastion](https://jobo.world/company/Bastion)
 
 * **[Frontend Engineer](https://jobs.ashbyhq.com/bastion/fe460b7c-5080-4667-9164-5be2078ca33d)** — ¤200,000 – ¤260,000 USD _(posted 2025-07-14)_
@@ -141,6 +137,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[Staff Software Engineer - Mobile](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Software-Engineer---Mobile_JR-202500410)** — _n/a_ _(posted 2025-03-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
