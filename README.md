@@ -43,7 +43,6 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000072053526-software-engineer)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Software Engineer Development in Test](https://jobs.smartrecruiters.com/Believe/744000071342255-senior-software-engineer-development-in-test?oga=true)** — _n/a_ _(posted 2025-07-17)_
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
@@ -70,6 +69,10 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Software Engineer, Frontend (Consumer Products)](https://boards.greenhouse.io/cbreferral/jobs/5963221)** — _n/a_ _(posted 2025-03-14)_
 * **[Senior Software Engineer, Frontend - Consumer Products](https://boards.greenhouse.io/cbreferral/jobs/5963295)** — ¤186,005 – ¤218,900 USD _(posted 2025-03-14)_
 * **[Senior Software Engineer, Frontend (Institutional - Products)](https://boards.greenhouse.io/cbreferral/jobs/6659086)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
+
+* **[Staff Software Engineer, Platform UI](https://job-boards.greenhouse.io/cribl/jobs/5543441004)** — _n/a_ _(posted 2025-07-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -311,4 +314,4 @@ Browse a wide range of remote JavaScript Developer positions available globally.
 * **[Staff Software Engineer, Frontend Web Platform](https://jobs.ashbyhq.com/zip/d2113256-4cac-4c46-afaf-a8824a22b38a)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
